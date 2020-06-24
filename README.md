@@ -11,3 +11,5 @@ make && ./tetris
 ```
 
 ### Screenshots
+![](Capture.PNG)
+![](Capture1.PNG)
